@@ -1,7 +1,3 @@
-Here’s a sample README for your **Pattern Printing** project on GitHub. This README provides an overview of the project, describes how to solve pattern printing problems, and includes examples of different patterns like triangles and squares.
-
----
-
 # Pattern Printing
 
 ## Overview
